@@ -1,6 +1,6 @@
 # Pinch – SwiftUI iOS App
 
-**Pinch** is a simple iOS app built with **SwiftUI**. Developed as part of a SwiftUI learning course. 
+**Pinch** is a **SwiftUI** app for testing touch gestures—**pinch**, **double-tap**, and **drag**—built as part of a learning course.
 
 ## Features ✨   
 - Double-tap for quick zoom or instant reset.
